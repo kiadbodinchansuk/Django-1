@@ -7,3 +7,4 @@
 2. <a href="#"> django crud mariadb | การทำ insert update delete กับ mariadb  </a>
 3. <a href="#"> django crud sql server </a>
 4. <a href="#"> django pagenation mariadb </a>
+4. <a href="#"> django upload images with pillow </a>
