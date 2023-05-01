@@ -3,5 +3,7 @@
 
 # Django
 
-1. django crud mariadb
-2. django crud sql server
+1. <a href="#"> django hello world </a>
+2. <a href="#"> django crud mariadb </a>
+3. <a href="#"> django crud sql server </a>
+4. <a href="#"> django pagenation mariadb </a>
