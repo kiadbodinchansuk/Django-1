@@ -3,7 +3,7 @@
 
 # Django
 
-1. <a href="#"> django hello world </a>
-2. <a href="#"> django crud mariadb </a>
+1. <a href="#"> django hello world | เริ่มต้นสร้าง Project django </a>
+2. <a href="#"> django crud mariadb | การทำ insert update delete กับ mariadb  </a>
 3. <a href="#"> django crud sql server </a>
 4. <a href="#"> django pagenation mariadb </a>
